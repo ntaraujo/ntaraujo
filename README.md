@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/ntaraujo1"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 
-Currently, I'm focused on studyng for entrance exams and looking for a vacancy as intern or apprentice. Some projects are stagnant so, but I keep in mind returning to them after this phase. Also, it doesn't mean I stopped learning 😄 I don't know even if I would be capable of such thing. After having immersed in Python and the Linux world, now I get hooked by C++, so I'm getting into that too.
+Currently, I'm focused on studyng for entrance exams and looking for a vacancy as intern or apprentice. Then, some projects are stagnant, but I keep in mind returning to them after this phase. Also, it doesn't mean I stopped learning 😄 I don't know even if I would be capable of such thing. After having immersed in Python and the Linux world, now I get hooked by C++, so I'm getting into that too.
 
 ![Views](https://komarev.com/ghpvc/?username=ntaraujo&label=Views)
 ![Repos](https://badges.pufler.dev/repos/ntaraujo)
