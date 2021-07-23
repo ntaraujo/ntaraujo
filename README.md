@@ -1,7 +1,8 @@
 ### Nice to meet ya 👋
 
-"I'm a passionate student of computing. Every day looking for something new, unexplored. I see art wherever code can run."
+What a pleasure! Feel at home, these are my personal projects that I've been developing in my journey.
 
+Some ways for contacting me:
 
 <!--
 **ntaraujo/ntaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +28,9 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/ntaraujo1"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 
-Currently, I'm focused on studyng for entrance exams and looking for a vacancy as intern or apprentice. Then, some projects are stagnant, but I keep in mind returning to them after this phase. Also, it doesn't mean I stopped learning 😄 I don't know even if I would be capable of such thing. After having immersed in Python and the Linux world, now I get hooked by C and C++, so I'm getting into that too.
+Currently, I'm focused on studyng for entrance exams and looking for a vacancy as intern or apprentice. Then, some projects are stagnant, but I keep in mind returning to them after this phase. Also, it doesn't mean I stopped learning 😄
+
+After having immersed in Python and the Linux world, now I get hooked by C and C++, what I'm constantly practicing!
 
 ![Views](https://komarev.com/ghpvc/?username=ntaraujo&label=Views)
 ![Repos](https://badges.pufler.dev/repos/ntaraujo)
