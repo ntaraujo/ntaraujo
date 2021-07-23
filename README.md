@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 &bg_color=0d1117&title_color=ffffff&text_color=c3cbd3&icon_color=2e8bf6&border_color=30363d
 &bg_color=0d1117&title_color=ffffff&text_color=c3cbd3&border_color=30363d
 ![views](https://komarev.com/ghpvc/?username=ntaraujo&label=profile%20views&style=flat-square)
+
+![profile views](https://komarev.com/ghpvc/?username=ntaraujo&label=profile%20views%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&style=flat-square&color=1877f2)
 -->
 
 <a href="mailto:nathanaraujoerocha@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -31,6 +33,5 @@ Here are some ideas to get you started:
 
 Currently, I'm focused on studyng for entrance exams and looking for a vacancy as intern or apprentice. Then, some projects are stagnant, but I keep in mind returning to them after this phase
 
-![profile views](https://komarev.com/ghpvc/?username=ntaraujo&label=profile%20views%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&style=flat-square&color=1877f2)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ntaraujo&show_icons=true&count_private=true&custom_title=GitHub Stats&hide_title=true&include_all_commits=true&hide_border=true&border_radius=0&bg_color=10,0077b5,d14836&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="ntaraujo's github stats" width="484">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&langs_count=10&hide_border=true&border_radius=0&bg_color=10,6f7db0,e4405f&hide_title=true&text_color=ffffff" alt="ntaraujo's top langs">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&langs_count=10&hide_border=true&border_radius=0&bg_color=10,6f7db0,e4405f&title_color=ffffff&text_color=ffffff" alt="ntaraujo's top langs">
