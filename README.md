@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 &bg_color=0d1117&title_color=ffffff&text_color=c3cbd3&icon_color=2e8bf6&border_color=30363d
 &bg_color=0d1117&title_color=ffffff&text_color=c3cbd3&border_color=30363d
+![views](https://komarev.com/ghpvc/?username=ntaraujo&label=profile%20views&style=flat-square)
 -->
 
 <a href="mailto:nathanaraujoerocha@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -32,8 +33,6 @@ Currently, I'm focused on studyng for entrance exams and looking for a vacancy a
 
 After having immersed in Python and the Linux world, now I get hooked by C and C++, what I'm constantly practicing!
 
-![Views](https://komarev.com/ghpvc/?username=ntaraujo&label=Views)
-![Repos](https://badges.pufler.dev/repos/ntaraujo)
-![Years](https://badges.pufler.dev/years/ntaraujo)
+![profile views](https://komarev.com/ghpvc/?username=ntaraujo&label=profile%20views&style=flat-square&color=brightgreen)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ntaraujo&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&border_radius=0&bg_color=30,d14836,0077b5,7289da&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="ntaraujo's github stats" width="484">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&langs_count=10&hide_border=true&border_radius=0&bg_color=30,e4405f,6f7db0&title_color=ffffff&text_color=ffffff" alt="ntaraujo's top langs">
