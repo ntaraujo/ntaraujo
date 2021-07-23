@@ -1,8 +1,10 @@
-### Nice to meet ya 👋
+<h1 align="center">Nice to meet ya 👋</h1>
 
-![Views](https://komarev.com/ghpvc/?username=ntaraujo&label=Views)
-![Repos](https://badges.pufler.dev/repos/ntaraujo)
-![Years](https://badges.pufler.dev/years/ntaraujo)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ntaraujo&label=Views" alt="Views">
+  <img src="https://badges.pufler.dev/repos/ntaraujo" alt="Repos"></a>
+  <img src="https://badges.pufler.dev/years/ntaraujo" alt="Years"></a>
+</p>
 
 What a pleasure! Feel at home, these are my personal projects that I've been developing in my journey.
 
@@ -26,6 +28,10 @@ Here are some ideas to get you started:
 ![views](https://komarev.com/ghpvc/?username=ntaraujo&label=profile%20views&style=flat-square)
 
 ![profile views](https://komarev.com/ghpvc/?username=ntaraujo&label=profile%20views%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&style=flat-square&color=1877f2)
+
+![Views](https://komarev.com/ghpvc/?username=ntaraujo&label=Views)
+![Repos](https://badges.pufler.dev/repos/ntaraujo)
+![Years](https://badges.pufler.dev/years/ntaraujo)
 -->
 
 <a href="mailto:nathanaraujoerocha@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
