@@ -1,5 +1,9 @@
 ### Nice to meet ya 👋
 
+![Views](https://komarev.com/ghpvc/?username=ntaraujo&label=Views)
+![Repos](https://badges.pufler.dev/repos/ntaraujo)
+![Years](https://badges.pufler.dev/years/ntaraujo)
+
 What a pleasure! Feel at home, these are my personal projects that I've been developing in my journey.
 
 Some ways for contacting me:
