@@ -36,4 +36,4 @@ After having immersed in Python and the Linux world, now I get hooked by C and C
 ![Repos](https://badges.pufler.dev/repos/ntaraujo)
 ![Years](https://badges.pufler.dev/years/ntaraujo)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ntaraujo&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&border_radius=0&bg_color=30,d14836,0077b5,7289da&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="ntaraujo's github stats" width="484">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&langs_count=10&hide_border=true&border_radius=0&bg_color=30,e4405f,6f7db0&title_color=ffffff&text_color=ffffff" alt="ntaraujo's top langs">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&langs_count=10&hide_border=true&border_radius=0&bg_color=6f7db0&title_color=ffffff&text_color=ffffff" alt="ntaraujo's top langs">
