@@ -30,6 +30,5 @@ Currently, I'm focused on studyng for entrance exams and looking for a vacancy a
 ![Views](https://komarev.com/ghpvc/?username=ntaraujo&label=Views)
 ![Repos](https://badges.pufler.dev/repos/ntaraujo)
 ![Years](https://badges.pufler.dev/years/ntaraujo)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ntaraujo&show_icons=true" alt="ntaraujo" width="484">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&hide=html" alt="ntaraujo">
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ntaraujo&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=2e8bf6&border_color=2e8bf6" alt="ntaraujo's github stats" width="484">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&langs_count=10&theme=react&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=2e8bf6" alt="ntaraujo's top langs">
