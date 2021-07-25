@@ -19,7 +19,7 @@ Currently I'm focused on studyng for entrance exams and looking for a vacancy as
 
 ### 🤔 What I'm studying about
 
-Bro C++, languages structures, how parsers works, lexers, tokens... abstract and concrete syntax trees, these stuff
+Bro C++, languages structures, how parsers work, lexers, tokens... abstract and concrete syntax trees, these stuff
 
 ### 📫 How to reach me
 
