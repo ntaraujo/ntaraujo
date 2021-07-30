@@ -39,7 +39,7 @@ Programming paradigms, data structures, the python world, material design and be
 ##
 
 <p align="center">
-  <img width="500" height="150" src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&borderColor=%23e1e4e8&qColor=%2324292e&aColor=%2324292e&textColor=%23363a3f&codeColor=%232a7edc" alt="Jokes Card">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&borderColor=%23e1e4e8&qColor=%2324292e&aColor=%2324292e&textColor=%23363a3f&codeColor=%232a7edc" alt="Jokes Card">
 </p>
 
 <!--
