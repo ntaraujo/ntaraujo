@@ -10,16 +10,22 @@ What a pleasure! Feel at home, here you will find some personal projects I've be
 
 ### 🌱 What I've done
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ntaraujo&show_icons=true&count_private=true&custom_title=GitHub Stats&hide_title=true&include_all_commits=true&hide_border=true&border_radius=0&bg_color=10,0077b5,d14836&title_color=ffffff&text_color=ffffff&icon_color=ffffff&line_height=26" alt="ntaraujo's github stats" width="484">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&langs_count=10&hide_border=true&border_radius=0&bg_color=10,6f7db0,e4405f&title_color=ffffff&text_color=ffffff" alt="ntaraujo's top langs">
+<div>
+  <img height="187em" src="https://github-readme-stats.vercel.app/api?username=ntaraujo&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&border_radius=0&bg_color=10,0077b5,d14836&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_title=true" alt="Github Stats">
+  <img height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&langs_count=10&hide_border=true&border_radius=0&bg_color=10,6f7db0,e4405f&title_color=ffffff&text_color=ffffff" alt="Top Langs">
+</div>
 
-### 🔭 What I'm doing
+### 🔨 What I'm doing
 
 Currently I'm focused on studyng for entrance exams and looking for a vacancy as intern or apprentice. Then, some projects are stagnant, but I keep in mind returning to them after this phase
 
-### 🤔 What I'm studying about
+### 📚 What I'm studying about
 
 Bro C++, languages structures, how parsers work, lexers, tokens... abstract and concrete syntax trees, these stuff
+
+### 💬 Ask me about
+
+Programming paradigms, data structures, the python world, material design and beautiful linuxes
 
 ### 📫 How to reach me
 
@@ -28,6 +34,13 @@ Bro C++, languages structures, how parsers work, lexers, tokens... abstract and 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/436571759047606273)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/ntaraujo1)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ntaraujo1)
+
+
+##
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&borderColor=%23e1e4e8&qColor=%2324292e&aColor=%2324292e&textColor=%23363a3f&codeColor=%232a7edc" alt="Jokes Card">
+</p>
 
 <!--
 **ntaraujo/ntaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,4 +64,6 @@ Here are some ideas to get you started:
 ![Views](https://komarev.com/ghpvc/?username=ntaraujo&label=Views)
 ![Repos](https://badges.pufler.dev/repos/ntaraujo)
 ![Years](https://badges.pufler.dev/years/ntaraujo)
+
+![Contribution Grid](https://github.com/ntaraujo/ntaraujo/blob/output/github-contribution-grid-snake.svg)
 -->
