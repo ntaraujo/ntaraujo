@@ -1,0 +1,4 @@
+- uses: Platane/snk@v0.0.18
+    with:
+      github_user_name: ${{ github.repository_owner }}
+      gif_out_path: github-snake.gif
