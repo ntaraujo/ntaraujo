@@ -11,8 +11,8 @@ What a pleasure! Feel at home, here you will find some personal projects I've be
 ### 🌱 What I've done
 
 <div>
-  <img height="181em" src="https://github-readme-stats.vercel.app/api?username=ntaraujo&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&border_radius=0&bg_color=10,0077b5,d14836&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_title=true" alt="Github Stats">
-  <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&langs_count=10&hide_border=true&border_radius=0&bg_color=10,6f7db0,e4405f&title_color=ffffff&text_color=ffffff" alt="Top Langs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ntaraujo&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&border_radius=0&bg_color=10,0077b5,d14836&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_title=true" alt="Github Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&langs_count=10&hide_border=true&border_radius=0&bg_color=10,6f7db0,e4405f&title_color=ffffff&text_color=ffffff" alt="Top Langs">
 </div>
 
 ### 🔨 What I'm doing
