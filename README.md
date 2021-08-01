@@ -6,7 +6,7 @@
   <img src="https://badges.pufler.dev/years/ntaraujo" alt="Years"></a>
 </p>
 
-What a pleasure! Feel at home, here you will find some personal projects I've been developing in my journey.
+What a pleasure! Feel at home, here you will find some personal projects I've been developing in my journey
 
 ### 🌱 What I've done
 
@@ -35,6 +35,13 @@ Programming paradigms, data structures, the python world, material design and be
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/ntaraujo1)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ntaraujo1)
 
+### ⚡ Fun facts
+
+* I'm also known as 'tchan' in some places, and there people usually ask me 'seguraaaa o tchan'
+* I used to want being a physician, but then high school came... Damn Newton
+* I'm good at games as I'm good remembering things
+* There was something important here
+* I like to tell bad jokes :)
 
 ##
 
