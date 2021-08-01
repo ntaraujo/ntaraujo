@@ -41,7 +41,6 @@ Programming paradigms, data structures, the python world, material design and be
 * I used to want being a physician, but then high school came... Damn Newton
 * I'm good at games as I'm good remembering things
 * There was something important here
-* I like to tell bad jokes :)
 
 ##
 
