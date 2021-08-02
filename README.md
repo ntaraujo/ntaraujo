@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=helvetica&color=58A6FF&size=30&center=true&vCenter=true&height=36&lines=Nice+to+meet+ya+%F0%9F%91%8B;be+welcome+%F0%9F%98%81;star+my+repos%3F+%F0%9F%98%B3" alt="Nice to meet ya 👋"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=helvetica&color=3081DD&size=30&center=true&vCenter=true&height=36&lines=Nice+to+meet+ya+%F0%9F%91%8B;be+welcome+%F0%9F%98%81;star+my+repos%3F+%F0%9F%98%B3" alt="Nice to meet ya 👋"></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ntaraujo&label=Views" alt="Views">
