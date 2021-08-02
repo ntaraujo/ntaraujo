@@ -42,7 +42,7 @@ Programming paradigms, data structures, the python world, material design and be
 * I'm good at games as I'm good remembering things
 * There was something important here
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ntaraujo&point=1877f2&line=58a6ff&hide_title=true&bg_color=0d1117&hide_border=true&color=ffffff&area_color=ffffff&area=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ntaraujo&point=1877f2&line=58a6ff&hide_title=true&bg_color=ffffff&hide_border=true&color=24292e)
 
 ##
 
