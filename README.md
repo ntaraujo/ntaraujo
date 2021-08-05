@@ -17,7 +17,7 @@ What a pleasure! Feel at home, here you will find some personal projects I've be
 
 ### 🔨 What I'm doing
 
-Currently I'm focused on studyng for entrance exams and looking for a vacancy as intern or apprentice. Then, some projects are stagnant, but I keep in mind returning to them after this phase
+Currently, I'm focused on studying for entrance exams and looking for a vacancy as intern or apprentice. Then, some projects are stagnant, but I keep in mind returning to them after this phase
 
 ### 📚 What I'm studying about
 
@@ -25,7 +25,7 @@ Bro C++, languages structures, how parsers work, lexers, tokens... abstract and 
 
 ### 💬 Ask me about
 
-Programming paradigms, data structures, the python world, material design and beautiful linuxes
+Programming paradigms, data structures, the python world, material design, and beautiful linuxes
 
 ### 📫 How to reach me
 
@@ -38,8 +38,8 @@ Programming paradigms, data structures, the python world, material design and be
 ### ⚡ Fun facts
 
 * I'm also known as 'tchan' in some places, and there people usually ask me 'seguraaaa o tchan'
-* I used to want being a physician, but then high school came... Damn Newton
-* I'm good at games as I'm good remembering things
+* I used to want to be a physician, but then high school came... Damn Newton
+* I'm good at games as I'm good at remembering things
 * There was something important here
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ntaraujo&point=1877f2&line=58a6ff&hide_title=true&bg_color=ffffff&color=24292e)
