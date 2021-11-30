@@ -44,7 +44,7 @@ Programming paradigms, data structures, the python world, material design, and b
 
 ### ⚡ Fun facts
 
-* I'm also known as 'tchan' in some places, and there people usually ask me 'seguraaaa o tchan'
+* Being embarrassed is one of my favorite hobbies
 * I used to want to be a physician, but then high school came... Damn Newton
 * I'm good at games as I'm good at remembering things
 * There was something important here
