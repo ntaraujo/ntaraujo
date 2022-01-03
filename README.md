@@ -21,6 +21,9 @@ What a pleasure! Feel at home, here you will find some personal projects I've be
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&langs_count=10&hide_border=true&border_radius=0&bg_color=10,6f7db0,e4405f&title_color=ffffff&text_color=ffffff&hide_title=true" alt="Top Langs">
 </div>
 
+<!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
+<img width="843em" src="https://activity-graph.herokuapp.com/graph?username=ntaraujo&point=1877f2&line=58a6ff&hide_title=true&bg_color=ffffff&color=24292e">
+
 ### 🔨 What I'm doing
 
 Currently, I'm focused on studying for entrance exams and looking for a vacancy as intern or apprentice. Then, some projects are stagnant, but I keep in mind returning to them after this phase
@@ -48,9 +51,6 @@ Programming paradigms, data structures, the python world, material design, and b
 * I used to want to be a physician, but then high school came... Damn Newton
 * I'm good at games as I'm good at remembering things
 * There was something important here
-
-<!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ or https://github.com/Ashutosh00710/github-readme-activity-graph -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ntaraujo&point=1877f2&line=58a6ff&hide_title=true&bg_color=ffffff&color=24292e)
 
 ##
 
