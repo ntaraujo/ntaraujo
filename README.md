@@ -26,15 +26,15 @@ What a pleasure! Feel at home, here you will find some personal projects I've be
 
 ### 🔨 What I'm doing
 
-Currently, I'm focused on studying for entrance exams and looking for a vacancy as intern or apprentice. Then, some projects are stagnant, but I keep in mind returning to them after this phase
+By now, I'm starting a Computer Engineering course and also working in São Paulo. There, I'm creating automation projects, altogether with its user interfaces. Other projects keep in wait, but I'm returning to them soon
 
 ### 📚 What I'm studying about
 
-Bro C++, languages structures, how parsers work, lexers, tokens... abstract and concrete syntax trees, these stuff
+Bro C#, Algorithms, Physics, Derivatives and more stuff related to the beginning of a Computer Engineering course
 
 ### 💬 Ask me about
 
-Programming paradigms, data structures, the python world, material design, and beautiful linuxes
+Programming paradigms, data structures, languages structures, how parsers work, lexers, tokens... abstract and concrete syntax trees, the python world, material design, and beautiful linuxes
 
 ### 📫 How to reach me
 
@@ -48,7 +48,7 @@ Programming paradigms, data structures, the python world, material design, and b
 ### ⚡ Fun facts
 
 * Being embarrassed is one of my favorite hobbies
-* I used to want to be a physician, but then high school came... Damn Newton
+* I used to want to be a physician... until high school. Virgin newton.
 * I'm good at games as I'm good at remembering things
 * There was something important here
 
