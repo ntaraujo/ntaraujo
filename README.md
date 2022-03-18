@@ -17,8 +17,8 @@ What a pleasure! Feel at home, here you will find some personal projects I've be
 
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
 <div>
-  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=ntaraujo&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&hide_title=true" alt="Github Stats">
-  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&langs_count=10&hide_title=true" alt="Top Langs">
+  <img height="171.5em" src="https://github-readme-stats.vercel.app/api?username=ntaraujo&show_icons=true&count_private=true&custom_title=GitHub Stats&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" alt="Github Stats">
+  <img height="171.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&langs_count=10&hide_border=true&hide_title=true&border_radius=0" alt="Top Langs">
 </div>
 
 <!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
