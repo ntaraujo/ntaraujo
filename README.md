@@ -34,7 +34,7 @@ Bro C#, Algorithms, Physics, Derivatives and more stuff related to the beginning
 
 ### 💬 Ask me about
 
-Programming paradigms, data structures, languages structures, and any stuff related to how programming was created, structured and work today.
+Programming paradigms, data structures, languages structures... Any stuff related to how programming was created, structured and work today.
 
 The python world, selenium, material design, and beautiful linuxes
 
