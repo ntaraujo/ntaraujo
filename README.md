@@ -24,9 +24,9 @@ What a pleasure! Feel at home, here you will find some personal projects I've be
 <!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
 <img width="843em" src="https://activity-graph.herokuapp.com/graph?username=ntaraujo&point=1877f2&line=58a6ff&hide_title=true&bg_color=ffffff&color=24292e">
 
-### 🔨 What I'm doing
+### 🔨 What I'm doing and will do
 
-By now, I'm starting a Computer Engineering course and also working in São Paulo. There, I'm creating automation projects, altogether with its user interfaces. Other projects keep in wait, but I'm returning to them soon
+By now, I'm studying Computer Engineering and working as apprentice. I haven't the intention to evolve old projects (disclaimer), but create new ones with more impact/scalabillity (soon, I hope)
 
 ### 📚 What I'm studying about
 
@@ -34,7 +34,9 @@ Bro C#, Algorithms, Physics, Derivatives and more stuff related to the beginning
 
 ### 💬 Ask me about
 
-Programming paradigms, data structures, languages structures, how parsers work, lexers, tokens... abstract and concrete syntax trees, the python world, material design, and beautiful linuxes
+Programming paradigms, data structures, languages structures, and any stuff related to how programming was created, structured and work today.
+
+The python world, selenium, material design, and beautiful linuxes
 
 ### 📫 How to reach me
 
@@ -42,7 +44,7 @@ Programming paradigms, data structures, languages structures, how parsers work, 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathanaraujoerocha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ntaraujo)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/436571759047606273)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/ntaraujo1)
+<!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/ntaraujo1) -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ntaraujo1)
 
 ### ⚡ Fun facts
@@ -52,7 +54,7 @@ Programming paradigms, data structures, languages structures, how parsers work, 
 * I'm good at games as I'm good at remembering things
 * There was something important here
 
-##
+---
 
 <!-- see https://github.com/ABSphreak/readme-jokes -->
 <p align="center">
