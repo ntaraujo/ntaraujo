@@ -30,13 +30,18 @@ By now, I'm studying Computer Engineering and working as apprentice. I haven't t
 
 ### 📚 What I'm studying about
 
-Bro C#, Algorithms, Physics, Derivatives and more stuff related to the beginning of a Computer Engineering course
+* C#, Algorithms, Chemestry, Integrals, Derivatives and more stuff related to the beginning of a Computer Engineering course
+* Qt and desktop apps
+* JS and mobile developing
 
 ### 💬 Ask me about
 
-Programming paradigms, data structures, languages structures... Any stuff related to how programming was created, structured and work today.
-
-The python world, selenium, material design, and beautiful linuxes
+* Programming paradigms, data structures, languages structures... Any stuff related to how programming was created, structured and work today
+* How to automate Excel and Web
+* MVC, App's design and code quality
+* What is the best OS?
+* What is the meaning of life?
+* What is 33+77?
 
 ### 📫 How to reach me
 
@@ -50,7 +55,7 @@ The python world, selenium, material design, and beautiful linuxes
 ### ⚡ Fun facts
 
 * Being embarrassed is one of my favorite hobbies
-* I used to want to be a physician... until high school. Virgin newton.
+* I used to want to be a physician... until high school. So i found out what it was
 * I'm good at games as I'm good at remembering things
 * There was something important here
 
