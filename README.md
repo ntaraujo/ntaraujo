@@ -60,7 +60,7 @@ By now, I'm studying Computer Engineering and working as apprentice. I haven't t
 
 If its about a project of mine, you can always submit an issue ([how](https://docs.github.com/articles/creating-an-issue))
 
-For comercial purposes, or if you just want to meet me:
+For professional purposes, or if you just want to meet me:
 
 <!-- see https://shields.io/ -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ntaraujo)
