@@ -30,13 +30,15 @@ Hello! Feel at home, here you will find some personal projects I've been develop
 
 By now, I'm studying Computer Engineering and working as apprentice. I haven't the intention to evolve old projects (disclaimer), but create new ones with more impact/scalabillity (soon, I hope)
 
-### 📚 What I'm studying about
+---
+
+### 📚 I'm studying about...
 
 * C#, Integrals, Derivatives and more for my college course
 * Qt and desktop apps for my job
 * JS and mobile developing for future
 
-### 💬 Ask me about
+### 💬 You can ask me about:
 
 * Programming paradigms, language structures and the history of programming in general
 * A bit of data structures as linked lists, binary trees, etc
@@ -44,6 +46,8 @@ By now, I'm studying Computer Engineering and working as apprentice. I haven't t
 * The best OS
 * The meaning of life
 * 33+77
+
+---
 
 ### ⚡ Fun facts
 
@@ -54,7 +58,7 @@ By now, I'm studying Computer Engineering and working as apprentice. I haven't t
 
 ### 📫 How to reach me
 
-If its about a project of mine, you can always submit an issue in the accordingly repository
+If its about a project of mine, you can always submit an issue ([how](https://docs.github.com/articles/creating-an-issue))
 
 For comercial purposes, or if you just want to meet me:
 
