@@ -28,7 +28,7 @@ Hello! Feel at home, here you will find some personal projects I've been develop
 
 ### 🔨 What I'm doing
 
-By now, I'm studying Computer Engineering and working as apprentice. I haven't the intention to evolve old projects (disclaimer), but create new ones with more impact/scalabillity (soon, I hope)
+By now, I'm studying Computer Engineering and working with Supply Chain. I haven't the intention to evolve old projects (disclaimer), but create new ones with more impact/scalabillity (soon, I hope)
 
 ---
 
