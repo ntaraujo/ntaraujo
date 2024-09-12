@@ -1,9 +1,6 @@
 <!-- hhmm u liked something here
 well, don't forget to star the repo and follow me -->
 
-<!-- see https://readme-typing-svg.herokuapp.com/demo -->
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=helvetica&color=3081DD&size=30&center=true&vCenter=true&height=36&repeat=false&lines=Hi%2C+my+name+is+Nathan+%F0%9F%91%8B" alt="Nice to meet ya 👋"></h1>
-
 <!-- see https://github.com/antonkomarev/github-profile-views-counter and https://pufler.dev/git-badges/ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ntaraujo&label=Views" alt="Views">
@@ -11,9 +8,9 @@ well, don't forget to star the repo and follow me -->
   <!-- <img src="https://badges.pufler.dev/repos/ntaraujo" alt="Repos"><img src="https://badges.pufler.dev/years/ntaraujo" alt="Years"> -->
 </p>
 
-Hello! Feel at home, here you will find some personal projects I've been developing in my journey
+<!-- Hello! Feel at home, here you will find some personal projects I've been developing in my journey
 
-### 🌱 What I've done
+### 🌱 What I've done -->
 
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
@@ -23,10 +20,10 @@ Hello! Feel at home, here you will find some personal projects I've been develop
 
 <!-- see https://ashutosh00710.github.io/github-readme-activity-graph/ -->
 <div align="center">
-<img width="843em" src="https://github-readme-activity-graph.cyclic.app/graph?username=ntaraujo&point=1877f2&line=58a6ff&hide_title=true&bg_color=ffffff&color=24292e">
+<img width="843em" src="https://github-readme-activity-graph.vercel.app/graph?username=ntaraujo&point=1877f2&line=58a6ff&hide_title=true&bg_color=ffffff&color=24292e">
 </div>
 
-### 🔨 What I'm doing
+<!-- ### 🔨 What I'm doing
 
 By now, I'm studying Computer Engineering and working with Supply Chain. I haven't the intention to evolve old projects (disclaimer), but create new ones with more impact/scalabillity (soon, I hope)
 
@@ -62,7 +59,7 @@ If its about a project of mine, you can always submit an issue ([how](https://do
 
 For professional purposes,
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ntaraujo)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ntaraujo) -->
 
 <!-- see https://shields.io/ -->
 <!--
