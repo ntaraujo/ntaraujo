@@ -2,13 +2,14 @@
 well, don't forget to star the repo and follow me -->
 
 <!-- see https://github.com/antonkomarev/github-profile-views-counter and https://pufler.dev/git-badges/ -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ntaraujo&label=Views" alt="Views">
   <img alt="Stars" src="https://img.shields.io/github/stars/ntaraujo?label=Stars">
-  <!-- <img src="https://badges.pufler.dev/repos/ntaraujo" alt="Repos"><img src="https://badges.pufler.dev/years/ntaraujo" alt="Years"> -->
+  <img src="https://badges.pufler.dev/repos/ntaraujo" alt="Repos">
+  <img src="https://badges.pufler.dev/years/ntaraujo" alt="Years">
 </p>
 
-<!-- Hello! Feel at home, here you will find some personal projects I've been developing in my journey
+Hello! Feel at home, here you will find some personal projects I've been developing in my journey
 
 ### 🌱 What I've done -->
 
