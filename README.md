@@ -15,7 +15,7 @@ Hello! Feel at home, here you will find some personal projects I've been develop
 
 <!-- see https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-  <img height="171.5em" src="https://github-readme-stats.vercel.app/api?username=ntaraujo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0" alt="Github Stats">
+  <img height="171.5em" src="https://github-readme-stats.vercel.app/api?username=ntaraujo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&border_radius=0&hide_rank=true" alt="Github Stats">
   <img height="171.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntaraujo&layout=compact&langs_count=10&hide_border=true&hide_title=true&border_radius=0" alt="Top Langs">
 </div>
 
